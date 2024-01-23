@@ -2,4 +2,4 @@
 
 This is my first Git respository
 
-Author - Venkat Ramana
+Author - Venkat Ramana Mangali
